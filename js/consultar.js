@@ -38,7 +38,7 @@ const mostrardias=(letras,numeros)=>{
     var cadena2 = "aux=consultarHorario2&numeroFinal="+numeroFinal;
     $.ajax({
         type: "POST",
-        url: "controller/consultarController.php",
+        url: "consultarController.php",
         data: cadena2,
         success: function (data) {
            
