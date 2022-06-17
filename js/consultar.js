@@ -24,7 +24,7 @@ const mostrardias=(letras,numeros)=>{
     var cadena2 = "aux=consultarHorario&numeroFinal="+numeroFinal;
     $.ajax({
         type: "POST",
-        url: "controller/consultarController.php",
+        url: "consultarController.php",
         data: cadena2,
         success: function (data) {
             $("#divTablePicoyPlaca").html(data);
