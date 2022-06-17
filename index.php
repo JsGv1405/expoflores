@@ -90,7 +90,7 @@
                                                 </li>
                                                 <li><hr class = "dropdown-divider"></li>
                                                 <li>
-                                                    <a class = "dropdown-item" href = "/gled/privado/usuarios/miUsuario.php">
+                                                    <a class = "dropdown-item" href = "#">
                                                         <div class = "d-flex align-items-center">
                                                             <div class = ""><i class = "bi bi-person-fill"></i></div>
                                                             <div class = "ms-3"><span>Usuario:</span></div>
@@ -127,7 +127,7 @@
                             <ul class="metismenu" id="menu">
 
                                 <li>
-                                    <a href="/expoflores/index.php" class="has-arrow">
+                                    <a href="index.php" class="has-arrow">
                                         <div class="parent-icon"><i class="bi bi-house-fill"></i>
                                         </div>
                                         <div class="menu-title">Inicio</div>
