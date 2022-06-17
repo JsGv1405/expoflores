@@ -1,5 +1,5 @@
 <?php
-include "../model/consultarController.php";
+
 $aux = $_POST["aux"];
 $numeroFinal=$_POST["numeroFinal"];
 if($aux=="consultarHorario"){
