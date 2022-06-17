@@ -136,7 +136,7 @@
 
                                 <li class="menu-label">Pico y Placa</li>
                                 <li>
-                                     <a href="/expoflores/contenido/consultar/index.php">
+                                     <a href="consultar.php">
                                      <div class="parent-icon"><i class="bi bi-search"></i></div>
                                      <div class="menu-title">Consulta</div>
                                      </a>
