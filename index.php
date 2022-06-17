@@ -127,7 +127,7 @@
                             <ul class="metismenu" id="menu">
 
                                 <li>
-                                    <a href="/picoyplaca/index.php" class="has-arrow">
+                                    <a href="/expoflores/index.php" class="has-arrow">
                                         <div class="parent-icon"><i class="bi bi-house-fill"></i>
                                         </div>
                                         <div class="menu-title">Inicio</div>
@@ -136,7 +136,7 @@
 
                                 <li class="menu-label">Pico y Placa</li>
                                 <li>
-                                     <a href="/picoyplaca/contenido/consultar/index.php">
+                                     <a href="/expoflores/contenido/consultar/index.php">
                                      <div class="parent-icon"><i class="bi bi-search"></i></div>
                                      <div class="menu-title">Consulta</div>
                                      </a>
