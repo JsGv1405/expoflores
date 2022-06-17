@@ -1,15 +1,4 @@
-<?php
-session_start();
-$so = php_uname();
-$windows = stripos($so, "Windows");
-$path_so = "";
-if ($windows !== false) {
-    $path_so = "C:/xampp/htdocs/picoyplaca/cabecera.php";
-  
-} else {
-    $path_so = "/var/www/html/picoyplaca/cabecera.php";
-}
-?>
+
             <!doctype html>
             <html lang="es">
 
@@ -55,7 +44,7 @@ if ($windows !== false) {
                     <!--start wrapper-->
                     <div class="wrapper">
 
-                        <?php require_once $path_so; ?>
+                       
                         <!--start content-->
                         <main class="page-content">
                             
